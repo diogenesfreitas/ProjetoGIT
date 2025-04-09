@@ -1,3 +1,5 @@
 Meu arquivo home
 
 Home | Help
+Home | Cadastro
+Home | Relatórios
